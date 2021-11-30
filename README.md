@@ -1,7 +1,8 @@
 # AboutMeApp
 
-** This app shows some personal information about me **
+## This app shows some personal information about me 
 
-![Home](https://github.com/maydino/AboutMeApp/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-11-30%20at%2010.57.49.png?raw=true)
+![Simulator Screen Shot - iPhone 11 - 2021-11-30 at 11 28 24](https://user-images.githubusercontent.com/53323174/144116289-ab3319e8-f8b8-422e-99c0-3b5ec903c154.png)
 
-![Alert](https://github.com/maydino/AboutMeApp/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-11-30%20at%2011.28.24.png?raw=true)
+
+![Simulator Screen Shot - iPhone 11 - 2021-11-30 at 10 57 49](https://user-images.githubusercontent.com/53323174/144116293-1038318c-008d-468a-ae93-1851823cafb0.png)
